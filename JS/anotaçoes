@@ -1,0 +1,15 @@
+<Doctype html>
+    <html lang="pt-br">
+        <Head>
+            <link>
+            <meta>
+            <Title>...</Title>
+        </Head>
+        <body>
+            <p> Doctype:a tag Doctype define o tipo de arquivo.</p>
+            <p> html: marcador de texto </p>
+            <p> Head: cabeçário armazena todas as informações de pre-carregamento </p>
+            <p> link: permite o carregamento de arquivos externos como estilo css e arquivos javascript </p>
+            <p> meta: a função da tag é definir pre-configurações de navegadores, corrigindo problemas de idioma, tamanho de tela e configurações avançadas </p>
+            <p> title: título que aparece no topo dos navegadores
+            <p> body: responável pelo corpo onde será disponibilizado as informações que serão exibidas nos navegadores. permitindo interações com imagens, vídeos, músicas, textos, formulários e botões </p>
